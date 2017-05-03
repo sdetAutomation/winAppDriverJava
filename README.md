@@ -43,7 +43,7 @@ Page object model is used in this framework.  Each window will have its own clas
 
 Test App
 -----
-    notepad.exe (jWindows 10)
+    notepad.exe (running on Windows 10)
 
 
 Continuous Integration(CI)
