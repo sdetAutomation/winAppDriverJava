@@ -9,6 +9,7 @@
 # winAppDriverJava
 WinAppDriver Startup Project for Java.
 
+[![Build Status](https://travis-ci.org/sdetAutomation/winAppDriverJava.svg?branch=master)](https://travis-ci.org/sdetAutomation/winAppDriverJava)
 
 Introduction
 ------------
